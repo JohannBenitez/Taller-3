@@ -1,0 +1,14 @@
+li::first-line{
+    contain: "-";
+}
+
+ul{
+    background-color: slategray;
+}
+footer{
+    background-color:slategrey; color:black;
+    
+}
+.alinear-derecha {
+    text-align: right;
+}
